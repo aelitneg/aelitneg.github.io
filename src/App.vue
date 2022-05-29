@@ -85,13 +85,13 @@
               <a
                 class="ml-2"
                 style="display: flex; align-items: center"
-                href="https://travis-ci.com/github/agentile1990/agentile1990.github.io"
+                href="https://travis-ci.com/github/aelitneg/aelitneg.github.io"
                 target="_blank"
               >
                 <v-img
                   max-width="80"
                   contain
-                  src="https://travis-ci.com/agentile1990/agentile1990.github.io.svg?branch=source"
+                  src="https://travis-ci.com/aelitneg/aelitneg.github.io.svg?branch=source"
                 ></v-img>
               </a>
             </div>

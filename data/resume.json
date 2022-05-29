@@ -3,7 +3,7 @@
   "title": "Software Developer",
   "contact": {
     "phone": "(615)-852-8290",
-    "email": "agentile1990@gmail.com"
+    "email": "andrew@agentile.dev"
   },
   "sections": [
     {
@@ -32,10 +32,18 @@
       "icon": "fas fa-briefcase",
       "items": [
         {
+          "name": "Alitu",
+          "location": "Editburgh, Scotland",
+          "title": "DevOps Specialist",
+          "date": "May 2022 - Present",
+          "description": "Improving cloud infrastructure as code and backend application development.",
+          "details": []
+        },
+        {
           "name": "FreightWise",
           "location": "Brentwood, TN",
           "title": "Software Engineer (Mid-Level)",
-          "date": "Feb 2019 - Present",
+          "date": "Feb 2019 - May 2022",
           "description": "Full Stack application developer for logistics SaaS company",
           "details": [
             "Full-stack development for a JavaScript SaaS web application",
@@ -76,9 +84,18 @@
       "icon": "fas fa-tools",
       "data": {
         "headers": [
-          {"text": "Name", "value": "name"},
-          {"text": "Level", "value": "level"},
-          {"text": "Experience (yrs)", "value": "experience"}
+          {
+            "text": "Name",
+            "value": "name"
+          },
+          {
+            "text": "Level",
+            "value": "level"
+          },
+          {
+            "text": "Experience (yrs)",
+            "value": "experience"
+          }
         ],
         "skills": [
           {
@@ -123,6 +140,6 @@
   "links": {
     "word": "https://www.dropbox.com/s/9upbt2e6j5xbjf5/Andrew%20Gentile%20-%20Resume.docx?dl=1",
     "pdf": "https://www.dropbox.com/s/anga5f9r9tfmyjv/Andrew%20Gentile%20-%20Resume.pdf?dl=1",
-    "web": "https://agentile1990.github.io/resume"
+    "web": "https://aelitneg.github.io/resume"
   }
 }

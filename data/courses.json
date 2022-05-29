@@ -8,7 +8,7 @@
     "repos": [
       {
         "name": "udemy-react",
-        "url": "https://github.com/agentile1990/udemy-react"
+        "url": "https://github.com/aelitneg/udemy-react"
       }
     ],
     "certificate": "UC-d77d5397-331a-4cd2-a806-169d808decb6.jpeg"
@@ -22,11 +22,11 @@
     "repos": [
       {
         "name": "mandelbrot-bitmap",
-        "url": "https://github.com/agentile1990/mandelbrot-bitmap"
+        "url": "https://github.com/aelitneg/mandelbrot-bitmap"
       }, 
       {
         "name": "udemy-adv-cpp11",
-        "url": "https://github.com/agentile1990/udemy-adv-cpp11"
+        "url": "https://github.com/aelitneg/udemy-adv-cpp11"
       }
     ],
     "certificate": "UC-9880f08d-b87d-4fdc-9ac8-7d7be1989487.jpg"
@@ -40,7 +40,7 @@
     "repos": [
       {
         "name": "MITOCW-60001",
-        "url": "https://github.com/agentile1990/MITOCW-60001"
+        "url": "https://github.com/aelitneg/MITOCW-60001"
       }
     ],
     "certificate": ""
